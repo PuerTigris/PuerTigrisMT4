@@ -1,0 +1,7 @@
+https://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@github.com/PuerTigris/pythonProject.git
+
+設定するURLは
+https://github.com/（ユーザ名）/（リポジトリ名）.git
+?になってたところを
+https://（アクセストークン）@github.com/（ユーザ名）/（リポジトリ名）.git
+?にしたらプッシュできた。
