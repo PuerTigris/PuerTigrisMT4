@@ -14,3 +14,20 @@ Experts/mqlcache.dat
 Experts/Moving Average.ex4
 Experts/MACD Sample.ex4
 *.ex4
+Include/Tools/
+Include/Strings/
+Include/Indicators/
+Include/Files/FileBin.mqh
+Include/Files/File.mqh
+Include/Controls/
+Include/Files/
+Include/Charts/
+Include/ChartObjects/
+Include/Canvas/Canvas.mqh
+Include/Arrays/
+Include/WinUser32.mqh
+Include/StdLibErr.mqh
+Include/stdlib.mqh
+Include/stderror.mqh
+Include/Object.mqh
+Include/MovingAverages.mqh
