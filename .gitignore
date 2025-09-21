@@ -31,3 +31,4 @@ Include/stdlib.mqh
 Include/stderror.mqh
 Include/Object.mqh
 Include/MovingAverages.mqh
+Experts/test.mq4
